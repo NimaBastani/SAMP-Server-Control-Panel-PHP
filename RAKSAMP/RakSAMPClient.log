@@ -1,0 +1,93 @@
+[20:46:10.089] Connecting to 185.105.237.98:7777..
+[20:46:13.648] Disconnected.
+[20:46:15.737] Connecting to 185.105.237.98:7777..
+[20:46:16.936] Disconnected.
+[20:46:59.176] Connecting to 127.0.0.1:7777..
+[20:47:02.719] Disconnected.
+[20:47:41.953] Connecting to 127.0.0.1:7777..
+[20:47:47.990] [RAKSAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[20:47:49.992] Connecting to 127.0.0.1:7777..
+[20:47:50.999] Connecting to 127.0.0.1:7777..
+[20:47:53.592] Disconnected.
+[20:47:53.592] Disconnected.
+[20:48:57.065] Connecting to 127.0.0.1:7777..
+[20:49:03.130] [RAKSAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[20:49:04.457] Disconnected.
+[20:52:17.242] Connecting to 127.0.0.1:7777..
+[20:52:19.735] Connecting to 127.0.0.1:7777..
+[20:52:20.229] Connecting to 127.0.0.1:7777..
+[20:52:20.647] Connecting to 127.0.0.1:7777..
+[20:52:21.137] Connecting to 127.0.0.1:7777..
+[20:52:21.655] Connecting to 127.0.0.1:7777..
+[20:52:22.457] Connecting to 127.0.0.1:7777..
+[20:52:23.307] [RAKSAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[20:52:25.309] Connecting to 127.0.0.1:7777..
+[20:52:25.793] [RAKSAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[20:52:26.298] [RAKSAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[20:52:26.725] [RAKSAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[20:52:27.207] [RAKSAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[20:52:27.699] [RAKSAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[20:52:27.796] Connecting to 127.0.0.1:7777..
+[20:52:28.299] Connecting to 127.0.0.1:7777..
+[20:52:28.530] [RAKSAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[20:52:28.726] Connecting to 127.0.0.1:7777..
+[20:52:29.209] Connecting to 127.0.0.1:7777..
+[20:52:29.701] Connecting to 127.0.0.1:7777..
+[21:40:51.875] Connecting to 127.0.0.1:7777..
+[21:41:05.096] Connecting to 127.0.0.1:7777..
+[21:41:11.143] [RAKSAMP] Connection attempt failed. Reconnecting in 2 seconds.
+[21:41:13.147] Connecting to 127.0.0.1:7777..
+[21:41:14.374] [AUTH] 44D33F34EFE4EF5 -> EF6321F7B4D2F7EE447B5E3DCAAA4EB1EFC8E864
+[21:41:14.407] Connected. Joining the game...
+[21:41:14.498] Connected to NimaBastaniw Voice Chat TEST
+[21:41:14.498]  @SaScript_S Please write !spawn into the console when you're ready to spawn.
+[21:41:14.592] [CMSG] RPC : 128, val : , 
+[21:41:16.193] [CMSG] RPC : 155, val : , 
+[21:41:19.224] [CMSG] RPC : 155, val : , 
+[21:41:22.256] [CMSG] RPC : 155, val : , 
+[21:41:25.291] [CMSG] RPC : 155, val : , 
+[21:41:28.326] [CMSG] RPC : 155, val : , 
+[21:41:31.353] [CMSG] RPC : 155, val : , 
+[21:41:34.382] [CMSG] RPC : 155, val : , 
+[21:41:37.411] [CMSG] RPC : 155, val : , 
+[21:41:40.436] [CMSG] RPC : 155, val : , 
+[21:41:43.456] [CMSG] RPC : 155, val : , 
+[21:41:57.798] Connecting to 127.0.0.1:7777..
+[21:41:58.063] [AUTH] 30E9393369B568C2 -> 8049A94655368461379D721DA3B8DBB914912CFF
+[21:41:58.096] Connected. Joining the game...
+[21:41:58.128] Connected to NimaBastaniw Voice Chat TEST
+[21:41:58.130]  @SaScript_S Please write !spawn into the console when you're ready to spawn.
+[21:41:58.284] [CMSG] RPC : 128, val : , 
+[21:42:00.769] Disconnected.
+[21:42:55.623] Connecting to 127.0.0.1:7777..
+[21:42:55.860] [AUTH] 160236AF773C4A1B -> 9CA605DF7A40469E5ECD9E24B1C428D92504ECD8
+[21:42:55.892] Connected. Joining the game...
+[21:42:55.927] Connected to NimaBastaniw Voice Chat TEST
+[21:42:55.929]  @SaScript_S Please write !spawn into the console when you're ready to spawn.
+[21:42:56.085] [CMSG] RPC : 128, val : , 
+[21:42:58.675] [CMSG] RPC : 155, val : , 
+[21:43:01.705] [CMSG] RPC : 155, val : , 
+[21:43:02.777] Connecting to 127.0.0.1:7777..
+[21:43:03.015] [AUTH] 3E0B335274F91C99 -> 23A24D0EA59A9C2F64A6EE0A258A558398B30245
+[21:43:03.047] Connected. Joining the game...
+[21:43:03.079] Connected to NimaBastaniw Voice Chat TEST
+[21:43:03.080]  @SaScript_S Please write !spawn into the console when you're ready to spawn.
+[21:43:03.235] [CMSG] RPC : 128, val : , 
+[21:43:04.735] [CMSG] RPC : 155, val : , 
+[21:43:05.830] [CMSG] RPC : 155, val : , 
+[21:43:07.759] [CMSG] RPC : 155, val : , 
+[21:43:08.861] [CMSG] RPC : 155, val : , 
+[21:43:10.782] [CMSG] RPC : 155, val : , 
+[21:43:11.059] Connecting to 127.0.0.1:7777..
+[21:43:11.296] [AUTH] 1DC3CC5276627A0 -> 361581195354053B36639CF910F61B9CFCE4BC7E
+[21:43:11.329] Connected. Joining the game...
+[21:43:11.393] Connected to NimaBastaniw Voice Chat TEST
+[21:43:11.395]  @SaScript_S Please write !spawn into the console when you're ready to spawn.
+[21:43:11.519] [CMSG] RPC : 128, val : , 
+[21:43:11.890] [CMSG] RPC : 155, val : , 
+[21:43:13.809] [CMSG] RPC : 155, val : , 
+[21:43:14.117] [CMSG] RPC : 155, val : , 
+[21:43:14.916] [CMSG] RPC : 155, val : , 
+[21:43:16.344] Disconnected.
+[21:43:16.345] Disconnected.
+[21:43:16.352] Disconnected.
